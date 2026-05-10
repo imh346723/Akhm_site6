@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: navy;
+    color: white;
+    padding:5px;
+}   
+h1 {
+    color: navy;
+}
+
+footer  {
+    background-color:lawngreen;
+    padding:7px;
+}
+
+footer p {
+    background-color: whitesmoke;
+    padding: 5px;
+}
+
+nav a {
+    margin:20px;
+    font-size:20px;
+    text-decoration:none;
+    color:white;
+    border:3px solid navy;
+    border-radius:10px;
+    background-color:navy;
+}
+
+.popular {
+    background-color:white;
+    color:royalblue;
+}
+
+.kog {
+    background-color:lawngreen ;
+}
+
+.tik {
+    font-size: 20px;
+}
+
+.tok {
+    color: blue;
+    font-size: 35px;
+    padding: 7px;
+}
+
